@@ -331,4 +331,75 @@ img{max-width:100%;height:auto}
 .footer-links a:hover{
   background:rgba(255,255,255,.10);
 }
+.money-section {
+  margin-top: 40px;
+}
+
+.ventajas ul {
+  list-style: none;
+  padding: 0;
+}
+
+.ventajas li {
+  margin-bottom: 8px;
+}
+
+.tabla-responsive {
+  overflow-x: auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+table th,
+table td {
+  padding: 12px;
+  border-bottom: 1px solid #eee;
+  text-align: left;
+}
+
+.btn-amazon {
+  display: inline-block;
+  background: #1e73be;
+  color: #fff;
+  padding: 10px 16px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.btn-amazon:hover {
+  background: #155a94;
+}
+
+.btn-destacado {
+  margin-top: 15px;
+}
+
+.micro-confianza {
+  font-size: 13px;
+  color: #666;
+  margin-top: 6px;
+}
+
+.top-recomendado {
+  margin-top: 30px;
+  padding: 20px;
+  background: #f7f9fc;
+  border-radius: 8px;
+}
+
+.faq h4 {
+  margin-top: 20px;
+}
+
+.cta-final {
+  margin-top: 40px;
+  text-align: center;
+}
+
 
