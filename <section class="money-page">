@@ -1,0 +1,188 @@
+<section class="money-page" aria-label="Mejor power bank 25000 mAh 2026">
+
+<header class="money-page__header">
+  <p class="money-page__kicker">Comparativa 2026 · Energía portátil · Alta autonomía</p>
+  <h1 class="money-page__title">Mejor power bank 25.000 mAh con carga rápida (2026)</h1>
+  <p class="money-page__intro">
+    Si necesitas autonomía real para viajes, trabajo fuera de casa o jornadas largas,
+    aquí tienes una comparativa clara de power banks de alta capacidad.
+    Selección orientada a decisión rápida.
+  </p>
+</header>
+
+<section class="micro-trust">
+  <div class="container">
+    <p class="micro-trust__text">
+      <strong>Actualizado 2026</strong> · Selección independiente · Sin coste adicional para ti
+      <span class="micro-trust__sep">·</span>
+      <span class="micro-trust__note">Podríamos recibir una comisión sin coste extra si compras desde nuestros enlaces.</span>
+    </p>
+  </div>
+</section>
+
+<section class="money-page__table" id="tabla">
+  <div class="container">
+    <h2 class="money-page__subtitle">Comparativa rápida</h2>
+
+    <table class="compare-table__table">
+      <thead>
+        <tr>
+          <th>Modelo</th>
+          <th>Ideal para</th>
+          <th>Punto fuerte</th>
+          <th>Comprar</th>
+        </tr>
+      </thead>
+      <tbody>
+
+        <tr class="compare-table__row compare-table__row--best">
+          <td><strong>INIU 25.000 mAh</strong></td>
+          <td>Viajes y uso intensivo</td>
+          <td>Gran equilibrio autonomía / portabilidad</td>
+          <td>
+            <a class="btn-amazon"
+               href="https://www.amazon.es/dp/B0B7438Q2Z/?tag=vendeconia-21"
+               target="_blank"
+               rel="nofollow sponsored noopener">
+              Ver en Amazon
+            </a>
+          </td>
+        </tr>
+
+        <tr>
+          <td><strong>Baseus EnerGeek 25.000 mAh</strong></td>
+          <td>Alta potencia y carga rápida</td>
+          <td>Mayor potencia de salida</td>
+          <td>
+            <a class="btn-amazon"
+               href="https://www.amazon.es/dp/B0F83VMZJT/?tag=vendeconia-21"
+               target="_blank"
+               rel="nofollow sponsored noopener">
+              Ver en Amazon
+            </a>
+          </td>
+        </tr>
+
+        <tr>
+          <td><strong>CUKTECH 20.000 mAh</strong></td>
+          <td>Opción compacta potente</td>
+          <td>Buen rendimiento en menor tamaño</td>
+          <td>
+            <a class="btn-amazon"
+               href="https://www.amazon.es/dp/B0D8KH4LNB/?tag=vendeconia-21"
+               target="_blank"
+               rel="nofollow sponsored noopener">
+              Ver en Amazon
+            </a>
+          </td>
+        </tr>
+
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="money-page__best">
+  <div class="container">
+    <article class="product-card product-card--best">
+      <div class="product-card__badge">Mejor opción recomendada</div>
+      <h2 class="product-card__title">INIU Power Bank 25.000 mAh</h2>
+      <ul class="product-card__bullets">
+        <li>Ideal para varios días sin enchufe.</li>
+        <li>Capacidad alta para móvil y accesorios.</li>
+        <li>Equilibrio entre tamaño y autonomía.</li>
+      </ul>
+      <div class="product-card__cta">
+        <a class="btn-amazon"
+           href="https://www.amazon.es/dp/B0B7438Q2Z/?tag=vendeconia-21"
+           target="_blank"
+           rel="nofollow sponsored noopener">
+          Ver en Amazon
+        </a>
+      </div>
+    </article>
+  </div>
+</section>
+
+<section class="money-page__products">
+  <div class="container">
+    <div class="money-page__grid">
+
+      <article class="product-card">
+        <h2 class="product-card__title">Baseus EnerGeek 25.000 mAh</h2>
+        <ul class="product-card__bullets">
+          <li>Mayor potencia de salida.</li>
+          <li>Adecuado para dispositivos exigentes.</li>
+          <li>Buena opción si priorizas velocidad.</li>
+        </ul>
+        <div class="product-card__cta">
+          <a class="btn-amazon"
+             href="https://www.amazon.es/dp/B0F83VMZJT/?tag=vendeconia-21"
+             target="_blank"
+             rel="nofollow sponsored noopener">
+            Ver en Amazon
+          </a>
+        </div>
+      </article>
+
+      <article class="product-card">
+        <h2 class="product-card__title">CUKTECH 20.000 mAh</h2>
+        <ul class="product-card__bullets">
+          <li>Alternativa más compacta.</li>
+          <li>Ideal si buscas potencia en menor tamaño.</li>
+          <li>Buena relación capacidad-portabilidad.</li>
+        </ul>
+        <div class="product-card__cta">
+          <a class="btn-amazon"
+             href="https://www.amazon.es/dp/B0D8KH4LNB/?tag=vendeconia-21"
+             target="_blank"
+             rel="nofollow sponsored noopener">
+            Ver en Amazon
+          </a>
+        </div>
+      </article>
+
+    </div>
+  </div>
+</section>
+
+<section class="faq">
+  <div class="container">
+    <h2 class="faq__title">Preguntas frecuentes</h2>
+
+    <details class="faq__item">
+      <summary class="faq__q">¿25.000 mAh es demasiado grande?</summary>
+      <div class="faq__a">
+        <p>Es ideal para viajes y jornadas largas. Si buscas algo más ligero, puedes optar por menor capacidad.</p>
+      </div>
+    </details>
+
+    <details class="faq__item">
+      <summary class="faq__q">¿Sirve para varios dispositivos?</summary>
+      <div class="faq__a">
+        <p>Sí, permite cargar móvil y accesorios sin depender de enchufes durante horas.</p>
+      </div>
+    </details>
+
+    <details class="faq__item">
+      <summary class="faq__q">¿Tiene coste comprar desde aquí?</summary>
+      <div class="faq__a">
+        <p>No. Podríamos recibir una comisión sin coste adicional para ti.</p>
+      </div>
+    </details>
+
+  </div>
+</section>
+
+<nav class="money-page__links">
+  <div class="container">
+    <h2 class="money-page__subtitle">Más comparativas</h2>
+    <ul class="money-links">
+      <li><a href="/mejores-gadgets-baratos/">Gadgets baratos 2026</a></li>
+      <li><a href="/mejores-memorias-usb-baratas/">Memorias USB baratas</a></li>
+      <li><a href="/mejor-altavoz-inteligente-barato/">Altavoces inteligentes</a></li>
+    </ul>
+  </div>
+</nav>
+
+</section>
