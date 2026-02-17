@@ -261,7 +261,7 @@ img{max-width:100%;height:auto}
   gap:10px;
 }
 
-.badge{
+  .badge{
   display:inline-flex;
   align-items:center;
   gap:8px;
@@ -380,13 +380,13 @@ table td {
   margin-top: 15px;
 }
 
-.micro-confianza {
+ .micro-confianza {
   font-size: 13px;
   color: #666;
   margin-top: 6px;
 }
 
-.top-recomendado {
+  top-recomendado {
   margin-top: 30px;
   padding: 20px;
   background: #f7f9fc;
