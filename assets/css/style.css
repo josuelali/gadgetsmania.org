@@ -24,7 +24,7 @@ body {
 
 /* Animación de movimiento de estrellas */
 @keyframes moveStars {
-  from { transform: translateY(0); }
+  from { transform: translateY(50); }
   to { transform: translateY(-200px); }
 }
 
