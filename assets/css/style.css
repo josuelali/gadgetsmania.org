@@ -1,108 +1,12 @@
-body {
-  margin: 0;
-  font-family: 'Segoe UI', sans-serif;
-  background: #050816;
-  color: #f3f4f6;
-  overflow-x: hidden;
-}
-
-/* Fondo estrellas animadas */
-.stars {
-  position: fixed;
-  width: 100%;
-  height: 100%;
-  background: transparent;
-  z-index: -1;
-  background-image:
-    radial-gradient(2px 2px at 20px 30px, #ffffff, transparent),
-    radial-gradient(2px 2px at 40px 70px, #7c3aed, transparent),
-    radial-gradient(2px 2px at 130px 40px, #1e73be, transparent),
-    radial-gradient(2px 2px at 80px 10px, #ffffff, transparent);
-  background-size: 200px 200px;
-  animation: moveStars 60s linear infinite;
-}
-
+/* Mejora de la animación moveStars */
 @keyframes moveStars {
-  from { transform: translateY(0); }
-  to { transform: translateY(-200px); }
-}
-
-.container {
-  max-width: 1000px;
-  margin: auto;
-  padding: 40px 20px;
-}
-
-.hero {
-  padding: 120px 20px;
-  text-align: center;
-  background: linear-gradient(135deg, #0b0f1a, #1e73be);
-  border-bottom: 1px solid #1f2937;
-}
-
-.hero h1 {
-  font-size: 2.5rem;
-  margin-bottom: 20px;
-}
-
-.hero-buttons {
-  margin-top: 30px;
-}
-
-.btn-primary {
-  padding: 14px 28px;
-  background: linear-gradient(90deg, #1e73be, #7c3aed);
-  color: #fff;
-  text-decoration: none;
-  border-radius: 8px;
-  margin-right: 15px;
-  font-weight: 600;
-}
-
-.btn-outline {
-  padding: 14px 28px;
-  border: 1px solid #7c3aed;
-  color: #fff;
-  text-decoration: none;
-  border-radius: 8px;
-}
-
-.section {
-  padding: 80px 20px;
-}
-
-.card {
-  background: #111827;
-  padding: 30px;
-  border-radius: 12px;
-  margin-bottom: 30px;
-  border: 1px solid #1f2937;
-}
-
-.card h3 {
-  margin-top: 0;
-}
-
-.btn-amazon {
-  display: inline-block;
-  margin-top: 15px;
-  padding: 12px 22px;
-  background: #ff9900;
-  color: #000;
-  text-decoration: none;
-  border-radius: 6px;
-  font-weight: 600;
-}
-
-.footer {
-  text-align: center;
-  padding: 40px;
-  background: #0b0f1a;
-  border-top: 1px solid #1f2937;
-}
-
-.micro-trust {
-  margin-top: 20px;
-  font-size: 0.9rem;
-  color: #9ca3af;
+    0% {
+        transform: translateY(0); /* Todos los elementos empiezan en su posición original */
+    }
+    50% {
+        transform: translateY(-10px); /* Los elementos se mueven hacia arriba */
+    }
+    100% {
+        transform: translateY(0); /* Los elementos regresan a su posición original */
+    }
 }
